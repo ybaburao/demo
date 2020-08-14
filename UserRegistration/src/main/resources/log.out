@@ -1,0 +1,48 @@
+Adding user to Json repository
+Adding user to Json repository
+Adding user to Json repository
+Adding user to Json repository
+Updating user in Json repository
+Adding user to Json repository
+Adding user to Json repository
+Adding user to Json repository
+Updating user in Json repository
+Adding user to Json repository
+Adding user to Json repository
+Adding user to Json repository
+Adding user to Json repository
+Updating existing user
+Adding user to Json repository
+ readJson method start
+Json file is not empty updating the user
+UpdateJson method starts......
+ Existing Json objects count 1
+ User already exists so updating it 
+Adding user to Json repository
+ readJson method start
+Json file is not empty updating the user
+UpdateJson method starts......
+ Existing Json objects count 1
+ User already exists so updating it 
+Adding user to Json repository
+ readJson method start
+ Json file is empty----writing first object
+writing user to json file
+Adding user to Json repository
+ readJson method start
+ Json file is empty----writing first object
+writing user to json file
+Adding user to Json repository
+ readJson method start
+ Json file is empty----writing first object
+writing user to json file
+Adding user to Json repository
+ readJson method start
+ Json file is empty----writing first object
+writing user to json file
+Adding user to Json repository for userId 12345
+ readJson method start
+Json file is not empty updating the user
+UpdateJson method starts......
+ Existing Json objects count 1
+ User already exists so updating it 

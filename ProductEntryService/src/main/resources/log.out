@@ -1,0 +1,25 @@
+Adding product to repository 12345
+Adding product to repository 12345
+Adding product to repository 12345
+Updating product to repository 12345
+Deleting product from repository 12345
+Adding product to repository 12345
+ readJson method start
+Json file is not empty 
+UpdateJson method......
+ Existing Json objects count 0
+Json file is empty duplicate
+Updating product to repository 12345
+ readJson method start
+Json file is not empty 
+UpdateJson method......
+ Existing Json objects count 1
+ update json method else block 
+ User already exists so updating it 
+ flage is true
+Fetching product from repository 12345
+ deleteElementFromJson method 
+Json file is not empty 
+Deleting product from repository 12345
+ deleteElementFromJson method 
+Json file is not empty 
